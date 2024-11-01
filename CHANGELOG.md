@@ -1,6 +1,30 @@
-# Migration
+# CHANGELOG
 
-## v1.x to v2.x
+## v2.x to v3.0
+
+### New Requirements
+
+Requires PHP 8.2+
+
+### New features
+
+None
+
+### Backward Incompatible Changes
+
+None
+
+### Deprecated Features
+
+None
+
+### Other Changes
+
+None
+
+
+
+## v1.x to v2.0
 
 ### New Requirements
 
